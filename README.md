@@ -107,4 +107,4 @@ Through this project, I explored:
 
 ---
 
-**Author:** [Your GitHub Profile](https://github.com/kkifouche-ctrl)
+**Author:** [GitHub Profile](https://github.com/kkifouche-ctrl)
